@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sneha",
+    "age": "20",
+    "gender": "Female",
+    "mobile": "9999999999",
+    "email": "sneha123@gmail.com",
+    "address": "Hyderabad",
+    "emergency": "8888888888",
+    "aadhar": "123412341234",
+    "password": "12345",
+    "confirmPassword": "12345"
+  },
+  {
+    "name": "Snehalatha",
+    "age": "20",
+    "gender": "Female",
+    "mobile": "9876543210",
+    "email": "snehalathamekala29@gmail.com",
+    "address": "Hyderabad",
+    "emergency": "8976543210",
+    "aadhar": "123412341234",
+    "password": "12345",
+    "confirmPassword": "12345"
+  },
+  {
+    "name": "Sneha",
+    "age": "20",
+    "gender": "Female",
+    "mobile": "9876543210",
+    "email": "sneha12345@gmail.com",
+    "address": "Hyderabad",
+    "emergency": "8976543210",
+    "aadhar": "123412341234",
+    "password": "12345",
+    "confirmPassword": "12345"
+  },
+  {
+    "name": "Snehalatha",
+    "age": "20",
+    "gender": "Female",
+    "mobile": "9876543210",
+    "email": "snehalatha123@gmail.com",
+    "address": "Hyderabad",
+    "emergency": "8976543210",
+    "aadhar": "123412341234",
+    "password": "12345",
+    "confirmPassword": "12345"
+  },
+  {
+    "name": "Tommy",
+    "age": "20",
+    "gender": "Female",
+    "mobile": "5555555555",
+    "email": "tommy123@gmail.com",
+    "address": "Hyderabad",
+    "emergency": "6666666666",
+    "aadhar": "567856785678",
+    "password": "12345",
+    "confirmPassword": "12345"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Healthcare project backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Snehalatha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "multer": "^2.1.0",
+    "nodemailer": "^8.0.1"
+  }
+}
